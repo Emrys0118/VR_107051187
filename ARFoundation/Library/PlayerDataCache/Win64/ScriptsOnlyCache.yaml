@@ -156,27 +156,27 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12844}
     - Class: 114
-      Script: {instanceID: 12868}
+      Script: {instanceID: 12866}
     - Class: 114
-      Script: {instanceID: 12906}
+      Script: {instanceID: 12904}
     - Class: 114
-      Script: {instanceID: 13054}
+      Script: {instanceID: 13052}
     - Class: 114
-      Script: {instanceID: 13072}
+      Script: {instanceID: 13070}
     - Class: 114
-      Script: {instanceID: 13168}
+      Script: {instanceID: 13166}
     - Class: 114
-      Script: {instanceID: 13218}
+      Script: {instanceID: 13216}
     - Class: 114
-      Script: {instanceID: 13356}
+      Script: {instanceID: 13354}
     - Class: 114
-      Script: {instanceID: 13420}
+      Script: {instanceID: 13418}
     - Class: 114
-      Script: {instanceID: 13438}
+      Script: {instanceID: 13436}
     - Class: 114
-      Script: {instanceID: 13504}
+      Script: {instanceID: 13502}
     - Class: 114
-      Script: {instanceID: 13528}
+      Script: {instanceID: 13526}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -1435,4 +1435,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - "Assets/\u5834\u666FVR_.unity"
-  playerPath: C:/Users/user/Documents/GitHub/Unity_ASIA_ARFoundation/Exe/VRScene.exe
+  playerPath: C:/Users/user/Documents/GitHub/Unity_ASIA_ARFoundation/VR_107051187/VRScene.exe
